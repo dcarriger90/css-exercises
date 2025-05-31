@@ -1,0 +1,19 @@
+#second {
+    color: blue;
+    font-size: 32px;
+}
+
+.para {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.para.cool {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
