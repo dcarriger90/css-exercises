@@ -72,22 +72,15 @@ button.cancel {
   color: royalblue;
 }
 
-.container {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-
-}
-
 .header {
   font-weight: bold;
   font-size: larger;
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-bottom: 8px;
 }
 
-.buttons {
-  display: flex;
-  gap: 5px;
+.text {
+  margin-bottom: 16px;
 }
